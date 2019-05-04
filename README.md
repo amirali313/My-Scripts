@@ -1,34 +1,21 @@
-# Rename-Script
+# My-Script
+
+Some Usefull scripts that may ease you life lol jk
+
+# PROGRAMS :
+
+## Rename-Script
 
 It's a script that gives you the ability to rename your files in a directory with an incremental number.
 
-## Example
--- Directory name : Pictures
+## HostIP-Checker
 
--- Files : a.jpeg f.mp4 c.png
+It's a script that gives you the ability to search through subdomains of a domain to find used IP addresses.
 
-After your run the script you will have :
+## PathChecker-Script
 
-Pictures_001.jpeg Pictures_002.mp4 Pictures_003.png
+It's a script that gives you the ability to search through most possible available path on a domain.
 
-# How to run
+### Share you scripts
 
-Simply fist make it executable :
-
-`chmod +x rename.sh`
-
-Run :
-
-`./rename.sh`
-
-## IMPORTANT
-
-You need to copy it to `/usr/local/bin` on Mac.
-
-`cp rename.sh /usr/local/bin`
-
-Inorder to run it from anywhere
-
-Now you can go to the directory you want it to be sorted and than run :
-
-`rename.sh`
+If you think you have usefull script, come and share it here :)
